@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Elite9400&label=Profile views&color=0e75b6&style=flat" alt="Elite9400" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elite9400" alt="Elite9400" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Elite9400&theme=dark_dimmed" alt="Elite9400" /></a> </p>
 
 - 🌱 I'm currently learning **- Bachelor's degree coursework in **Computer Engineering & Automation (Cybersecurity focus)** at eCampus University.
 - Next-gen local AI model execution and microservices architecture.**
